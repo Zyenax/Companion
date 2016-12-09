@@ -1,0 +1,7 @@
+name: Companion
+version: 1.0
+main: com.Companion.Companion.Main
+author: Snickzz
+commands:
+  companion:
+    description: Open the main companion menu!
